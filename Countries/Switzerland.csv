@@ -1,3 +1,0 @@
-N° Incident;Open Date & Time;Assign To;Status;Customer;End Customer;N° Dossier Client;Country;HUB;Open By;Brend;Model;Component;Planning Date;Partner;Engineer;Couverture / Délais;Date limite;Etat;Groupe de l'opérateur;Close Date & Time;IB_SLA-GTI;IB_SLA-GTR;Serial #;IB_SLA-GBL
-64367;11/24/2016 12:54:20 PM;MMAZUR;WAITING CLIENT;ALU - NETHERLANDS  - UPC CDN;UPC SCHWEIZ GMBH;1-6546175afe;Switzerland;Europe;MMAZUR;HP;SERVER;HDD problem;;;;H+4 SITE 24;11/24/2016 5:03:28 PM;O;CALL;;NOK;;CZ24170VM8;NOK
-64185;11/22/2016 2:20:59 AM;LWISNIEWSKI;WAITING CLIENT;MAINTECH - MORGAN STANLEY;MORGAN STANLEY;TKT01023430;Switzerland;Europe;JAYOUB;HP;SERVER;POWER problem;;;;H+4 SITE 24;11/22/2016 6:55:36 AM;O;DISPATCH WESTERN EUROPE;;NOK;;GB88372HB0;NOK
